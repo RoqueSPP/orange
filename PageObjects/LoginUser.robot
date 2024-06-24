@@ -15,7 +15,7 @@ Realizar o preenchimento pra alteracao do cadastro
     Input Text                               ${LOGINUSER.firstName}               ${INFO}[firstName]
     Input Text                               ${LOGINUSER.lastName}                ${INFO}[lastName]
     Input Text                               ${LOGINUSER.employeeId}              ${INFO}[employee]
-    Input Text                               ${LOGINUSER.otherID}                 4763826
+    Input Text                               ${LOGINUSER.otherID}                 4788777
     Input Text                               ${LOGINUSER.driverLicense}           4763826
     Input Text                               ${LOGINUSER.licenseExpire}           2024-12-10
     Scroll Element Into View                 ${LOGINUSER.bloodType}
